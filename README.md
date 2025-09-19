@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@itscoolabhishek" target="blank"><img src="https://img.shields.io/twitter/follow/@itscoolabhishek?logo=twitter&style=for-the-badge" alt="@itscoolabhishek" /></a> </p>
 
-- 🌱  Final year B.Tech CSE(IoT) student with strong skills in **full-stack development** and **data structures & algorithms**.
+- Final year B.Tech CSE(IoT) student with strong skills in **full-stack development** and **data structures & algorithms**.
 
 - 📫 How to reach me **as6119552@gmail.com**
 
