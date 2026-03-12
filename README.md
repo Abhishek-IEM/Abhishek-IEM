@@ -105,11 +105,6 @@
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=abhishek-iem&theme=tokyonight"/>
-</p>
 
 ---
 
