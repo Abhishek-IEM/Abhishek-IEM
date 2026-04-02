@@ -96,11 +96,12 @@
 # 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats-git-main-anuraghazra1.vercel.app/api?username=abhishek-iem&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats-git-main-anuraghazra1.vercel.app/api/top-langs/?username=abhishek-iem&layout=compact&theme=radical" height="180"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhishek-iem&show_icons=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-iem&layout=compact&theme=tokyonight" height="180"/>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abhishek-iem&theme=radical" height="180"/>
 </p>
 ---
 
