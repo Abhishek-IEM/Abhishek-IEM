@@ -11,9 +11,9 @@ Full Stack Developer | MERN | Next.js | AI Applications | DSA
   <a href="mailto:as6119552@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/abhishek-sharma-63901a283" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
 
 ---
